@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    border: 5px solid black;
+    border-radius: 1rem;
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+}
+
+.up{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+
+.down{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* .out{
+    display: flex;
+    justify-content: center;
+} */
+
+.one{
+    background-color: rgb(230, 88, 188);
+}
+
+.two{
+    background-color: rgb(80, 174, 177);
+}
+
+.three{
+    background-color:rgb(200, 135, 37);
+}
+
+.four{
+    background-color: rgb(107, 124, 199);
+}
+
+.flash{
+    background-color: white;
+}
